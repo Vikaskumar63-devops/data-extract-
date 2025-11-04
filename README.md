@@ -33,16 +33,7 @@ Users can explore real-time trends, filter data by frequency, and view English-o
 
 ---
 
-## 🛠️ Tech Stack
 
-| Component | Technology |
-|------------|-------------|
-| **Frontend** | HTML, CSS, JavaScript |
-| **Backend** | Python (Flask or FastAPI) |
-| **API** | Google Trends (via `pytrends` or REST API) |
-| **Hosting** | Render / Vercel / Localhost |
-
----
 
 ## 📦 Installation
 
