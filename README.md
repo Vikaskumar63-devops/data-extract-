@@ -1,0 +1,54 @@
+# 🌍 Google Trends Data Extract Portal
+
+This project is a web-based application that integrates with the **Google Trends API** to extract and display trending keywords across different categories and countries.  
+Users can explore real-time trends, filter data by frequency, and view English-only results for better global insight.
+
+🔗 **Live Repository:** [https://github.com/Vikaskumar63-devops/data-extract-](https://github.com/Vikaskumar63-devops/data-extract-)
+
+---
+
+## 🚀 Features
+
+- 🔍 **Keyword Extraction:** Fetch trending keywords using the Google Trends API.  
+- 🕒 **Data Fetch Frequency:** Choose update intervals — every 6 hours, 12 hours, or 24 hours.  
+- 🌐 **Country Selection:** Filter results by country (e.g., India, USA, etc.).  
+- 🗓️ **Time Range:** Analyze trends from the past 24 hours or past 12 months.  
+- 🧭 **Category Filter:** Access multiple categories such as:
+  - Sports  
+  - Entertainment  
+  - Events  
+  - Songs  
+  - and more!  
+- ⚡ **Interactive Web Portal:**  
+  Left sidebar includes:
+  - Serial Number  
+  - Search Type  
+  - Category  
+  - Country  
+  - Action Button (Generate)
+- 🪄 **Generate Button:**  
+  On clicking **Generate**, the app triggers the API call and opens a pop-up showing:
+  - Keyword title  
+  - Clickable link leading to English-only news or trend data
+
+---
+
+## 🛠️ Tech Stack
+
+| Component | Technology |
+|------------|-------------|
+| **Frontend** | HTML, CSS, JavaScript |
+| **Backend** | Python (Flask or FastAPI) |
+| **API** | Google Trends (via `pytrends` or REST API) |
+| **Hosting** | Render / Vercel / Localhost |
+
+---
+
+## 📦 Installation
+
+Follow these steps to run the project locally:
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Vikaskumar63-devops/data-extract-.git
+   cd data-extract-
