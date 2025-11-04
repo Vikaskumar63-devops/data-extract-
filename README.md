@@ -33,6 +33,19 @@ Users can explore real-time trends, filter data by frequency, and view English-o
 
 ---
 
+## Screenshots 
+Homepage 
+<img width="935" height="539" alt="homepage" src="https://github.com/user-attachments/assets/838802ba-5e1a-4d92-ac78-84404889353d" />
+
+output 1 
+
+<img width="932" height="529" alt="output1" src="https://github.com/user-attachments/assets/cc87e6a6-7d94-40d8-acbf-b9bb30166022" />
+
+Output 3 
+
+<img width="932" height="529" alt="output1" src="https://github.com/user-attachments/assets/25f78f46-f215-4331-9051-b32768938ce8" />
+
+
 
 
 ## 📦 Installation
